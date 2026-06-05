@@ -1,8 +1,8 @@
 {
-  "version": "0.1.10",
-  "tag": "v0.1.10",
-  "released_at": "2026-06-05T11:52:36Z",
-  "download_url": "https://github.com/xdarkoy/lumidoc-releases/releases/download/v0.1.10/Lumidoc-0.1.10-win64.msi",
-  "sha256": "b045586fa123fa1ef89c92082f62edb89b6746ffea0498c9f9887b8d6f0749ea",
-  "release_notes": "https://github.com/xdarkoy/lumidoc-releases/releases/tag/v0.1.10"
+  "version": "0.1.11",
+  "tag": "v0.1.11",
+  "released_at": "2026-06-05T12:08:07Z",
+  "download_url": "https://github.com/xdarkoy/lumidoc-releases/releases/download/v0.1.11/Lumidoc-0.1.11-win64.msi",
+  "sha256": "460ccc8f37978223f062d752d5f4d444ca8476051327fbaecd40602791f0a58d",
+  "release_notes": "https://github.com/xdarkoy/lumidoc-releases/releases/tag/v0.1.11"
 }
